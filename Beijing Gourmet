@@ -1,13 +1,13 @@
-<!website html>
+<!DOCTYPE html>
 <html>
 <head>
-	<link rel="stylesheet" type="text/css" href="theme.css">
+	<link href="index.css" rel="stylesheet" type="text/css" href="theme.css">
 <title>Beiging Gourmet</title>
 </head>
 <body>
 
 <h1>Beiging Gourmet</h1>
-<img src="http://svcdn.simpleviewinc.com/v3/cache/www visittulsa_com/BC2FA46582C25F2ABA59B5E8F86502DD.jpg" style="width:200px;height:200px;">
+<img src="http://svcdn.simpleviewinc.com/v3/cache/www visittulsa_com/BC2FA46582C25F2ABA59B5E8F86502DD.jpg" alt="Beiging_Gourmet" style="width:200px;height:200px;">
 <p>The Beiging Gourmet is a chinese all you can buffet that offeres a range of chinese dishes. The Beiging Gourmet offers sushi dishes and a Mongolian Grill. The Beiging Gourmet always has something for everyone and the staff always makes it a welcoming environment.</p>
 
 </body>
