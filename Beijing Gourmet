@@ -1,6 +1,7 @@
+<!website html>
 <html>
 <head>
-	<link rel="stylesheet" type="text/css" href="/css/styles.css">
+	<link rel="stylesheet" type="text/css" href="theme.css">
 <title>Beiging Gourmet</title>
 </head>
 <body>
