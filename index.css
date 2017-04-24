@@ -1,28 +1,32 @@
 body    {
-    Background-color: PaleVioletRed;
+    Background-color: MistyRose;
 h1  {
     Color: Crimson;
     Font-Size: 30px;
-    Font-Family: "Times New Roman", Times, Serif;
+    Font-Family: "Times New Roman", Times, Serif
 }
 h2  {
     color:  Crimson;
     Font-Size: 20px;
-    Font-Family: "Times New Roman", Times, Serif;
+    Font-Family: "Times New Roman", Times, Serif
+}
 p   {
     Color: Crimson;
     Font-Size: 17px;
-    Font-Family: "Times New Roman", Times, Serif;
+    Font-Family: "Times New Roman", Times, Serif
 }
 h3  {
     Color: Crimson;
     Font-Size: 20px;
-    Font-Family: "Times New Roman", Times, Serif;
+    Font-Family: "Times New Roman", Times, Serif
+}
 Ul  {
     Color: Crimson;
-    Fnt-Size: 14px;
-    Font-Family: "Times New Roman", Times, Serif;
+    Font-Size: 14px;
+    Font-Family: "Times New Roman", Times, Serif
+}
 div {
     color: Crimson;
     Font-Size: 14px;
-    Font-Family: "Times New Roman", Times, Serif;
+    Font-Family: "Times New Roman", Times, Serif
+}
