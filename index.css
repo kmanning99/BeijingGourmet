@@ -1,32 +1,33 @@
-body    {
-    Background-color: MistyRose;
-h1  {
-    Color: Crimson;
-    Font-Size: 30px;
-    Font-Family: "Times New Roman", Times, Serif
+body {
+	background-color:MistyRose;
 }
-h2  {
-    color:  Crimson;
-    Font-Size: 20px;
-    Font-Family: "Times New Roman", Times, Serif
+h1	{
+	color: Crimson;
+	font-size:60px;
+	font-family: "Times New Roman", Times, Serif
 }
-p   {
-    Color: Crimson;
-    Font-Size: 17px;
-    Font-Family: "Times New Roman", Times, Serif
+p	{
+	color: Crimson;
+	font-size:17px;
+	font-family: "Times New Roman", Times, Serif
 }
-h3  {
-    Color: Crimson;
-    Font-Size: 20px;
-    Font-Family: "Times New Roman", Times, Serif
+h2	{
+	color: Crimson;
+	font-size: 17px;
+	font-family: "Times New Roman", Times, Serif
 }
-Ul  {
-    Color: Crimson;
-    Font-Size: 14px;
-    Font-Family: "Times New Roman", Times, Serif
+h3	{
+	color: Crimson;
+	font-size: 17px;
+	font-family: "Times New Roman", Times, Serif
 }
-div {
-    color: Crimson;
-    Font-Size: 14px;
-    Font-Family: "Times New Roman", Times, Serif
+ul     {
+	color: Crimson;
+	Font-Size: 17px;
+	font-family: "times New Roman", Times, Serif
+}
+div	{
+	color: Crimson;
+	font-size: 17px;
+	font-family: "Times New Roman", Times, Serif
 }
