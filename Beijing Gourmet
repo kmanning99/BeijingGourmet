@@ -12,14 +12,14 @@
 
 	<h3>menu</h3>
 	<ul>
-		Main Courses
+		Main Courses<b>
 		<li>Honey Chicken</li>
 		<li>Lo Mein</li>
 		<li>Teriyaki Chicken</li>
 		<li>Egg Rolls</li>
 		<li>Beef with Broccoli</li>
 		
-		Desserts
+		Desserts<b>
 		<li>Vanilla Ice Cream</li>
 		<li>Chocolate Ice Cream</li>
 		<li>Mixed Ice Cream</li>
