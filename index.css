@@ -5,6 +5,8 @@ h1	{
 	color: Crimson;
 	font-size:60px;
 	font-family: "Times New Roman", Times, Serif
+	padding-right: 30px;
+   	padding-left: 30px;
 }
 img	{right
 }
@@ -20,6 +22,8 @@ h2	{
 	color: Crimson;
 	font-size: 22px;
 	font-family: "Times New Roman", Times, Serif
+	padding-right: 30px;
+   	padding-left: 30px;
 }
 h3	{
 	color: Crimson;
