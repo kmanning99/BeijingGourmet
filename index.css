@@ -38,6 +38,24 @@ h3	{
 	padding-top:50px;
 	padding-bottom:80px;
 }
+h4	{
+	color: Crimson;
+	font-size: 22px;
+	font-family: "Times New Roman", Times, Serif
+	padding-right: 30px;
+   	padding-left: 30px;
+	padding-top:50px;
+	padding-bottom:80px;
+}
+h5	{
+	color: Crimson;
+	font-size: 22px;
+	font-family: "Times New Roman", Times, Serif
+	padding-right: 30px;
+   	padding-left: 30px;
+	padding-top:50px;
+	padding-bottom:80px;
+}
 ul     {
 	color: Crimson;
 	Font-Size: 18px;
