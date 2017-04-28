@@ -1,6 +1,15 @@
 body {
 	background-color:MistyRose;
 }
+header	{
+background-image:https://www.google.com/imgres?imgurl=https%3A%2F%2Fs3-media4.fl.yelpcdn.com%2Fbphoto%2FqZ_EGEpzLliUPt59hIEr-A%2Fl.jpg&imgrefurl=https%3A%2F%2Fwww.yelp.com%2Fbiz%2Feast-gourmet-super-buffet-and-mongolian-grill-tulsa&docid=82Qt0yMYESXtiM&tbnid=6479dvXB7moMUM%3A&vet=10ahUKEwiSkcjiwcfTAhUL2oMKHVaZA0UQMwh-KFQwVA..i&w=300&h=400&bih=974&biw=1920&q=beijing%20gourmet&ved=0ahUKEwiSkcjiwcfTAhUL2oMKHVaZA0UQMwh-KFQwVA&iact=mrc&uact=8. JPG;
+height:800px;
+width:100%;
+background-size:cover;
+background-repeat:no-repeat;
+background-position: center;
+overflow:hidden
+}
 h1	{
 	color: Crimson;
 	font-size:60px;
