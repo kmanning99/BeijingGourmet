@@ -8,13 +8,6 @@ h1	{
 	padding-right: 30px;
    	padding-left: 30px;
 }
-p	{
-	color: Crimson;
-	font-size: 18px;
-	font-family: "Times New Roman", Times, Serif
-   	padding-right: 30px;
-   	padding-left: 30px;
-}
 h2	{
 	color: Crimson;
 	font-size: 30px;
@@ -22,6 +15,14 @@ h2	{
 	padding-right: 30px;
    	padding-left: 30px;
 }
+p	{
+	color: Crimson;
+	font-size: 18px;
+	font-family: "Times New Roman", Times, Serif
+   	padding-right: 30px;
+   	padding-left: 30px;
+}
+
 h3	{
 	color: Crimson;
 	font-size: 30px;
