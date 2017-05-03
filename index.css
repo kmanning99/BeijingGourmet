@@ -1,35 +1,18 @@
 body {
 	background-color:MistyRose;
 }
-div.tab {
-    overflow: hidden;
-    border: 1px solid #ccc;
-    background-color: DarkSalmon;
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+nav li {
+    display: inline;
+    border: solid;
+    border-width: 1px 1px 0 1px;
+    margin: 0 5px 0 0;
 }
 
-div.tab button {
-    background-color: Black;
-    float: Top;
-    border: none;
-    outline: none;
-    cursor: pointer;
-    padding: 14px 16px;
-    transition: 0.3s;
-}
-
-div.tab button:hover {
-    background-color: #ddd;
-}
-
-div.tab button.active {
-    background-color: #ccc;
-}
-
-.tabcontent {
-    display: none;
-    padding: 6px 12px;
-    border: 1px solid #ccc;
-    border-top: none;
 }
 h1	{
 	color: Crimson;
@@ -37,6 +20,36 @@ h1	{
 	font-family: "Times New Roman", Times, Serif
 	padding-right: 30px;
    	padding-left: 30px;
+}
+nav li a {
+    padding: 0 10px;
+}
+#content {
+    border: 1px solid;
+}
+#selected {
+    padding-bottom: 1px; 
+    background: white;
+}
+#header li {
+    float: left;
+    border: 1px solid;
+    border-bottom-width: 0;
+    margin: 0 5px 0 0;
+}
+#content {
+    border: 1px solid;
+    clear: both;
+}
+#selected {
+    position: relative;
+    top: 1px;
+    background: white;
+}
+
+h1 {
+    margin: 0;
+    padding: 0 0 10px 0;
 }
 h2	{
 	color: Crimson;
